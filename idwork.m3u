@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="News" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TVRParlemen.id" status="error",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BaliTV.id@SD" tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="General",Bali TV
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+
+#EXTINF:-1 tvg-id="BRTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="General",BRTV (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="News",BTV (720p)
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png" group-title="News",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="General",Garuda TV (1080p)
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id@SD" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="General",GTV (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+
+#EXTINF:-1 tvg-id="IAmChannel.id@SD" tvg-logo="https://i.imgur.com/Gg6OcGT.png" group-title="Religious",I Am Channel (576p)
+#EXTVLCOPT:http-referrer=https://iamchannel.org/
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="IDXChannel.id@SD" tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="News",IDX Channel (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+
+#EXTINF:-1 tvg-id="Indosiar.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="General",Indosiar
+https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="News",iNews (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="General",Kawanua TV (720p)
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://i.imgur.com/bD6UHeZ.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",Kompas TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="General",MNCTV (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-id="RCTI.id@SD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="General",RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://i.imgur.com/EMmOvnQ.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",SCTV [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id@SD" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="General",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id@NorthSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="" group-title="Sports",TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" group-title="Undefined",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-id="UChannel.id@SD" tvg-logo="https://i.imgur.com/qxkb0cy.png" http-referrer="https://www.u-channel.tv/" group-title="Undefined",U Channel (720p)
+#EXTVLCOPT:http-referrer=https://www.u-channel.tv/
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
